@@ -19,7 +19,7 @@ Let’s denote:
 - Since every column must be a permutation of `[1, 2, ..., n]`, each column’s total sum is always `n(n + 1)/2`.
 - Therefore, the **total sum** of the matrix is `k times n(n + 1)/2`.
 - If all row sums are equal, then each row must sum to:
-  _sum = [k times n(n + 1)]/2n = k(n + 1)/2
+  target_sum = [k times n(n + 1)]/2n = k(n + 1)/2
 - Thus, k(n + 1)/2 must be an integer.
 
 ---
